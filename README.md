@@ -18,7 +18,7 @@ It's a scratcher
 I just learned python  
 Try to speak to me in Chinese, because my English is not good  
 
-
+- - - - -
 
 ***作品介绍  Works introduction ***  
 `这是一个Python作品 this is the python project `  
