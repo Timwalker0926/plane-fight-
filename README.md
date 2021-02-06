@@ -19,16 +19,14 @@ I just learned python
 Try to speak to me in Chinese, because my English is not good  
 
 
-自己紹介：  
-みなさん、こんにちは  
-私は中国人です。  
-私はwalkerです。  
-undentale、minecraftもします。  
-一つのscratchです  
-pythonを習ったばかりです  
-なるべく中国語で話してください。英語が下手ですから。  
 
+***作品介绍  Works introduction ***  
+`这是一个Python作品 this is the python project `  
+- 看标题就知道，这作品是飞机大战 You can see from the title that this work is a battle of airplanes  
 
-***作品介绍  Works introduction 作品の紹介***  
-`这是一个Python作品 this is the python project これはPython作品です`
-
+  图片按钮是中文的，所以非中国人可能看不懂 The picture button is in Chinese, so non Chinese people may not understand it  
+give not understand it people  
+**结束游戏 is over the game**  
+**重新开始 is again**  
+## 所以，现在赶紧体验吧！So, experience it now!
+tips: 运行*main*程序，请确保你下载了python和pygame  To run the *main* program, make sure you download *Python* and *pyGame*
